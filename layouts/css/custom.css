@@ -1,0 +1,11 @@
+.site-logo {
+    width: 2000px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.featured-banner img {
+    width: auto; /* Make the banner span the full width */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto;
+}
