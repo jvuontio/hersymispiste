@@ -1,0 +1,31 @@
+disabled = false
+languageCode = "fi"
+languageName = "Finnish"
+weight = 2
+title = "hersymispiste"
+
+[params]
+#displayName = "FI"
+isoCode = "fi"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "hersy_ico_.png"
+secondaryLogo = "hersy_ico_.png"
+disableLanguageSwitcher = true
+
+
+[[params.author.links]]
+patreon = "https://patreon.com/hersymispiste"
+
+[[params.author.links]]
+spotify = "https://open.spotify.com/artist/21upLm6bzj65M2Q3DPjemJ?si=5bbHV2XnREW1O5tNXf6cNg"
+
+[[params.author.links]]
+youtube = "https://www.youtube.com/@hersymispiste"
+
+[[params.author.links]]
+instagram = "https://www.instagram.com/hersymispiste/"
+
+["params.author"]
+name = "hersymispiste"
+image = "hk.png"

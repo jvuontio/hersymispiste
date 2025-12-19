@@ -1,0 +1,37 @@
+
+
+[[main]]
+name = "Blogi"
+pageRef = "blogi"
+weight = 20
+
+[[main]]
+ name = "Linkit"
+ weight = 20
+
+    [[main]]
+    name = "Lingonperry"
+    parent = "Linkit"
+    url = "https://app.lingonperry.com/artist/hersymispiste/be-a-fan/f09b89ff-a86a-4e9f-88a9-59fe92f8847b/2de3201d-033a-4aab-a175-6df7709e1f3e/supporter"
+    weight = 1
+
+    [[main]]
+    name = "Patreon"
+    parent = "Linkit"
+    url = "https://patreon.com/hersymispiste"
+    weight = 1
+
+    [[main]]
+    name = "Instagram"
+    parent = "Linkit"
+    url = "https://www.instagram.com/hersymispiste/"
+    weight = 1
+
+    [[main]]
+    name = "Youtube"
+    parent = "Linkit"
+    url = "https://www.youtube.com/@hersymispiste"
+    weight = 1
+
+[[footer]]
+none = "none"
