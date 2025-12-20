@@ -1,0 +1,17 @@
+/* Custom site CSS: make Cusdis comments iframe taller to keep input visible */
+#cusdis_thread,
+#cusdis_thread iframe {
+  width: 100%;
+  min-height: 700px; /* adjust if you want the input area more/less visible */
+  height: auto !important;
+  border: 0;
+  overflow: visible;
+}
+
+/* Optional: narrow-page layout tweak to keep form visible on small screens */
+@media (max-width: 640px) {
+  #cusdis_thread,
+  #cusdis_thread iframe {
+    min-height: 520px;
+  }
+}
