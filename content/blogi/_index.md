@@ -5,4 +5,5 @@ showDate = false
 showAuthor = false
 showPagination = false
 draft = false
+showComments = false
 +++

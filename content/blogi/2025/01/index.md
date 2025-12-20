@@ -3,6 +3,7 @@ title = 'Uudet kotisivut'
 date = 2025-12-17T19:53:17+02:00
 draft = false
 featureimage = "un.png"
+showComments = true
 +++
 
 On jo tovi vierähtänyt kun on viimeksi ollut "oikeat" kotisivut, edellisen suljin joskus vuoden 2006 nurkilla.
