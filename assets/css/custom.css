@@ -12,6 +12,6 @@
 @media (max-width: 640px) {
   #cusdis_thread,
   #cusdis_thread iframe {
-    min-height: 520px;
+    min-height: 800px;
   }
 }
