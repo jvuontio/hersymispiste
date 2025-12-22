@@ -2,7 +2,7 @@
 title = 'Uudet kotisivut'
 date = 2025-12-17T19:53:17+02:00
 draft = false
-featureimage = "un.png"
+featureimage = "img/un.png"
 showComments = true
 +++
 

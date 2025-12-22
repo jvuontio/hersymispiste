@@ -9,8 +9,8 @@ title = "hersymispiste"
 isoCode = "fi"
 rtl = false
 dateFormat = "2 January 2006"
-logo = "hersy_ico_.png"
-secondaryLogo = "hersy_ico_.png"
+logo = "img/hersy_ico_.png"
+secondaryLogo = "img/hersy_ico_.png"
 disableLanguageSwitcher = true
 
 
@@ -28,4 +28,4 @@ instagram = "https://www.instagram.com/hersymispiste/"
 
 ["params.author"]
 name = "hersymispiste"
-image = "hk.png"
+image = "img/hk.png"

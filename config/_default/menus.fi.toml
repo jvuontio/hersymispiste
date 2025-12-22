@@ -33,5 +33,27 @@ weight = 20
     url = "https://www.youtube.com/@hersymispiste"
     weight = 1
 
+[[main]]
+name = "Muita projekteja"
+Weight = 20
+
+    [[main]]
+    name = "Emil Vikholm"
+    parent = "Muita projekteja"
+    pageRef = "emil"
+    weight = 1
+
+    [[main]]
+    name = "Peppe T ja Katuhaukat"
+    parent = "Muita projekteja"
+    pageRef = "peppet"
+    weight = 1
+
+    [[main]]
+    name = "Finite Lives"
+    parent = "Muita projekteja"
+    pageRef = "finitelives"
+    weight = 1
+
 [[footer]]
 none = "none"

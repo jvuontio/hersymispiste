@@ -22,8 +22,8 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultFeaturedImage = "hk.png"
-defaultBackgroundImage = "hersy_square.png"
+defaultFeaturedImage = "img/hk.png"
+defaultBackgroundImage = "img/hersy_square.png"
 
 [header]
 layout = "basic"
@@ -46,7 +46,7 @@ cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
 disableHeroImageFilter = false
-homepageImage = "hersy_square.png"
+homepageImage = "img/hersy_square.png"
 
 
 [article]
@@ -56,7 +56,7 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
