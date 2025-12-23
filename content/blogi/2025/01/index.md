@@ -5,7 +5,6 @@ draft = false
 featureimage = "img/un.png"
 showComments = true
 tags = ["blogi", "hersymispiste",  "2025"]
-
 +++
 
 On jo tovi vierähtänyt kun on viimeksi ollut "oikeat" kotisivut, edellisen suljin joskus vuoden 2006 nurkilla.
