@@ -24,4 +24,4 @@ Emil Vikholm nimellä julkaistaan pop/iskelmäralleja, muidenkin kanssa yhteisty
 
 ## **Nuotit**
 
-{{< embed-pdf url="./assets/pdf/Vastatuuleen.pdf" >}}
+{{< embed-pdf url="/assets/pdf/Vastatuuleen.pdf" >}}
