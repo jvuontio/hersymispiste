@@ -4,6 +4,7 @@ date = 2025-12-17T19:53:17+02:00
 draft = false
 featureimage = "img/un.png"
 showComments = true
+tags = ["blogi", "hersymispiste",  "2025"]
 +++
 
 On jo tovi vierähtänyt kun on viimeksi ollut "oikeat" kotisivut, edellisen suljin joskus vuoden 2006 nurkilla.

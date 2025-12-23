@@ -39,9 +39,9 @@ showScrollToTop = true
 [homepage]
 layout = "background"
 showRecent = true
-showRecentItems = 3
+showRecentItems = 5
 showMoreLink = true
-showMoreLinkDest = "/posts/"
+showMoreLinkDest = "/blogi/"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
