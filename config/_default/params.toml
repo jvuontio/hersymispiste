@@ -22,6 +22,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
+mainSections = ["blogi"]
 defaultFeaturedImage = "img/hk.png"
 defaultBackgroundImage = "img/hersy_square.png"
 
