@@ -22,6 +22,8 @@ Emil Vikholm nimellä julkaistaan pop/iskelmäralleja, muidenkin kanssa yhteisty
 
 * [***Youtube***](https://www.youtube.com/@EmilVikholm)
 
+* * [***Lingonperry***](https://app.lingonperry.com/artist/emil-vikholm/be-a-fan/1f07340d-aaed-4b4f-b71b-283a8be02e93/2de3201d-033a-4aab-a175-6df7709e1f3e/supporter)
+
 ## **Nuotit**
 
 {{< embed-pdf url="/pdf/Vastatuuleen.pdf" >}}
