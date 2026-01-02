@@ -21,6 +21,9 @@ patreon = "https://patreon.com/hersymispiste"
 lingonperry = "https://app.lingonperry.com/artist/hersymispiste/be-a-fan/f09b89ff-a86a-4e9f-88a9-59fe92f8847b/2de3201d-033a-4aab-a175-6df7709e1f3e/supporter"
 
 [[params.author.links]]
+tidal = "https://tidal.com/artist/23421234"
+
+[[params.author.links]]
 youtube = "https://www.youtube.com/@hersymispiste"
 
 [[params.author.links]]
