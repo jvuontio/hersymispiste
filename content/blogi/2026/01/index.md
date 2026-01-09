@@ -1,0 +1,17 @@
++++
+title = 'Tekoäly'
+date = 2026-01-09T19:17:21+02:00
+draft = false
+featureimage = "img/ai-fails.png"
+showComments = true
+tags = ["blogi", "hersymispiste",  "2026", "jorinoita"]
++++
+Tekoäly on tämän hetken muotisana, ollut jo hyvän tovin ja jokainen ohjelmistoyritys ymppää omaa tekoälyään sovelluksiinsa, vaikka niille ei sinällään olisi kysyntää. Olisi kuitenkin epärehellistä väittää, etteikö se tulevaisuudessa tulisi näyttelemään merkittävää roolia etenkin puuduttavien työtehtävien osalta, se uhka, tai mahdollisuus, on jo olemassa. Aikanaan kohistiin automaatiosta, miten se vie ihmisiltä työpaikat ja maailma tuhoutuu. No, veihän se työpaikkoja, juuri niitä yksitoikkoisia, mieltä ja elämänhalua rappeuttavia töitä, ja samalla synnytti uusia työtehtäviä. Toki ilman koulutusta ei niihin kenestäkään työnsä menettäneistä olisi, sitä kautta ammatillisiin oppilaitoksiin saatiin uusia opintolinjoja. Suunnittelijoilta, asentajilta ja huoltohenkilöstöltä yks kaks odotettiin enemmän tietotaitoa. Kaiken kaikkiaan voisi vetää johtopäätöksen, että automaatio kehitti myös älykkäämpiä ihmisiä :nerd_face:
+
+Automaatio on aina enemmän ja vähemmän pitänyt sisällään tekoälyä, älyä järjestelmissä on ollut niin paljon kuin järjestelmän suunnittelijalla/ohjelmoijalla on ollut tarve ja mahdollisuus sitä  lisätä, pääperiaatteena tarve. Nykyiseen tekoälyyn sisältyy oppimismalleja ja mikäli oppiminen tapahtuu vain tietyn ryhmän valikoidulla datalla, alkaa tekoäly yhä enenevissä määrin kuvastaa ryhmänsä ajatus- ja arvomaailmaa. Ei kuulosta hyvältä. Mikäli taas koulutusdatana käytetään mitä tahansa esim. internetissä esiintyvää dataa, se kun on tahallisen ja tahattoman väärän tiedon runsaudensarvi. Miten tekoäly pystyisi erottamaan tekaistun datan oikeasta, mikäli sitä joku ihminen ei erikseen sille opettaisi? Taas herää kysymys, kuka sen tekee ja millä motiiveilla. Varmana voidaan pitää, että tällä hetkellä julkisesti itseoppivaan tekoälyyn ei voi luottaa piirun vertaa.
+
+Elon Muskin Grok on jo osoittanut, miten mis- ja disinformaatio sekä tiettyjen instanssien egon sively on ollut etusijalla. Huumorikäyttöön leikkikaluna toki ovat kaikessa tekoälyttömyydessään ihan ok ajanvietettä. Paitsi, että siihen kyllästyy nopeammin kuin muuhun some-aivomätään, jossa jotkut ihmiset on sentään ihan aidon oikeasti älyttömiä, mitään keinotekoista älyttömyyttä edes tarvita. Lienee turvallisinta jokaisen yrityksen kehittää omaa tekoälyä vain ja ainoastaan omiin tarpeisiinsa.
+
+Musiikkiin tekoäly on myöskin lonkeronsa ujuttanut. Sävellykset, sanoitukset ja sovitukset nappia painamalla. On myönnettävä, että jotkut palvelut, etenkin maksulliset, tuottavat pelottavan hyvän kuuloisia raitoja ja onhan näitä AI-artisteja biiseineen jo tolkuttomasti myrkyttämässä striimauspalveluita, ainakin näin olen lukenut. Mitenkäs keikkapaikat varailee näitä AI-bändejä? Entä kuka tulee katsomaan? Ei taida olla tungosta, ei interaktiota, ei improvisointia. En sinällään tekoälyn käyttöä ***työkaluna*** syrjisi, mutta itse vedän rajan sävellykseen ja sanoitukseen, sovitukseen voi käyttää idealähteenä mikäli on aivan lukossa. Tämänkaltaista lukkoa ei silti vielä ole tullut omalle kohdalle, sovitustyö on ehkä koko prosessin mielenkiintoisin ja mukavin alue.
+
+En voi väittää olevani asiantuntija missään aihealueessa mitä tässä postauksessa on käsitelty, ja nekin asiat jotka olen kirjaillut ovat todennäköisesti eilisen uutisia.
