@@ -6,7 +6,7 @@ featureimage = "img/hammock.jpg"
 showComments = true
 tags = ["blogi", "hersymispiste", "artisti", "teosto", "gramex", "omakustanne"]
 +++
-Mehän ollaan saatu kulumaan jo paljon aikaa, kaikki pois urheilusta ja muusta elämänlaatua parantavasta toiminnasta. Meillä on hieno sävellys ja koskettava sanoitus ja tunnelmallinen sovitus, on jopa saatu kaikki osuudet “nauhoitettua”. Kyllä, olen jo yli viisikymppinen, ja minulle kaikki äänittäminen on nauhoittamista, toivottavasti et ota siitä itseesi, [**kaulaparta**](https://en.wikipedia.org/wiki/Neckbeard_(slang)).
+Mehän ollaan saatu kulumaan jo paljon aikaa, kaikki pois urheilusta ja muusta elämänlaatua parantavasta toiminnasta. Meillä on hieno sävellys, koskettava sanoitus ja tunnelmallinen sovitus, on jopa saatu kaikki osuudet “nauhoitettua”. Kyllä, olen jo yli viisikymppinen, ja minulle kaikki äänittäminen on nauhoittamista, toivottavasti et ota siitä itseesi, [**kaulaparta**](https://en.wikipedia.org/wiki/Neckbeard_(slang)).
 
 Tässä vaiheessa useimmiten annan kappaleelle [***ISRC-koodin***](https://ifpi.fi/isrc/), tuottajatunnuksen hakeminen itselle ei ole pakollista, niin kuin ei tietenkään [**Teoston**](https://www.teosto.fi/) ja [**Gramexin**](https://www.gramex.fi/) jäsenyydetkään, mutta suosittelen näihin perehtymään, ajantasaiset hinnat löytyvät yhdistysten sivuilta. Palataan näihin erillisessä muistilistatyyppisessä postauksessa. Useilla aloittelevilla muusikonretaleilla, kuten itsellänikin muinoin, tämä tuntuu olevan jotain mystistä, noituuteen verrattavissa, ja onhan tästä aika vähän selkeätä tietoa saatavilla.
 
