@@ -6,6 +6,22 @@ pageRef = "blogi"
 weight = 20
 
 [[main]]
+name="Shops"
+weight = 20
+
+    [[main]]
+    name = "Merkkarituotteet (Fourthwall)"
+    parent = "Shops"
+    url = "https://shop.hersymispiste.fi"
+    weight = 1
+
+    [[main]]
+    name = "TULOSSA - Fyysiset äänitteet (elasticStage)"
+    parent = "Shops"
+    url = "https://elasticstage.com/hersymispiste"
+    weight = 1
+
+[[main]]
  name = "Linkit"
  weight = 20
 
