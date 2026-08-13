@@ -1,6 +1,6 @@
 disabled = false
-languageCode = "fi"
-languageName = "Finnish"
+locale = "fi"
+label = "Finnish"
 weight = 2
 title = "hersymispiste"
 
@@ -29,6 +29,6 @@ youtube = "https://www.youtube.com/@hersymispiste"
 [[params.author.links]]
 instagram = "https://www.instagram.com/hersymispiste/"
 
-["params.author"]
+[params.author]
 name = "hersymispiste"
 image = "img/hk.png"

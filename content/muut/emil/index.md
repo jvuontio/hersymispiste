@@ -11,7 +11,7 @@ showReadingTime = false
 heroStyle = "background"
 featureimage = "img/emil_promo.jpg"
 showHero = true
-[_build]
+[build]
   list = 'never'
 +++
 Emil Vikholm nimellä julkaistaan pop/iskelmäralleja, muidenkin kanssa yhteistyönä syntyneitä kappaleita, ylipäänsä sellaista (toivottavasti) massoihin vetoavaa helppoa kuunneltavaa, joka ei mielestäni sovellu Hersymispisteen katalogiin.

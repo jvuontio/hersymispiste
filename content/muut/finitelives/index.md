@@ -11,7 +11,7 @@ showComments = false
 heroStyle = "background"
 featureimage = "img/FSM_Logo.png"
 showHero = true
-[_build]
+[build]
   list = 'never'
 +++
 Finite Lives on niin ikään totaalinen sooloprojekti, jonka nimen alla julkaisen käytännössä kaiken muun mikä ei ehkä istuisi muihin prokkiksiin. Ambient, proge, englanninkielinen matsku, vaikka kurkkulaulantaa jos sellaista sattuisi syntymään.

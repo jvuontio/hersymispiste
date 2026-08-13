@@ -7,7 +7,7 @@ showPagination = false
 draft = false
 showComments = false
 layout = "simple"
-[_build]
+[build]
   list = 'never'
 +++
 Peppe T ja Katuhaukat onkin jo oikea bändi, soitellaan Suomi-covereita (ok, myönnetään ettei "Dirty Deeds Done Dirt Cheap" ole aivan suomalainen), jatkossa myös omia piisejä jahka saan kynän teroitettua.
