@@ -2,6 +2,9 @@ name = "hersymispiste"
 compatibility_date = "2025-12-20"
 pages_build_output_dir = "./public"
 
-# Cloudflare Pages static-site deployment for the Hugo build output.
-# The site is built locally by build.sh and then published from ./public.
-# Do not use `wrangler deploy` for this project; use Pages deploy or the Pages GitHub integration.
+[build]
+command = "./build.sh"
+
+# This project is a static Hugo site deployed through Cloudflare Pages.
+# Pages publishes the generated ./public directory, not a Worker script.
+# Use `wrangler pages deploy public` or the Cloudflare Pages GitHub integration.
