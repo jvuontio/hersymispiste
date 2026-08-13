@@ -11,6 +11,6 @@ showReadingTime = false
 heroStyle = "background"
 featureimage = "img/FSM_logo.png"
 showHero = true
-[_build]
+[build]
   list = 'never'
 +++
