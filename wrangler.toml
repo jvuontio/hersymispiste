@@ -2,9 +2,6 @@ name = "hersymispiste"
 compatibility_date = "2025-12-20"
 pages_build_output_dir = "./public"
 
-[build]
-command = "./build.sh"
-
 # This project is a static Hugo site deployed through Cloudflare Pages.
-# Pages publishes the generated ./public directory, not a Worker script.
-# Use `wrangler pages deploy public` or the Cloudflare Pages GitHub integration.
+# Cloudflare Pages builds the site from the repository and publishes the
+# generated ./public directory. Do not configure this as a Worker entry point.
