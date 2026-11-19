@@ -62,7 +62,7 @@ Weight = 20
     [[main]]
     name = "Peppe T ja Katuhaukat"
     parent = "Muita projekteja"
-    pageRef = "peppet"
+    pageRef = "muut/peppet"
     weight = 1
 
     [[main]]
@@ -70,6 +70,7 @@ Weight = 20
     parent = "Muita projekteja"
     pageRef = "finitelives"
     weight = 1
+
 
 [[footer]]
 none = "none"
