@@ -4,7 +4,7 @@ date = 2026-11-19T20:23:57+02:00
 draft = false
 featureimage = "img/hersylogo_translucent.png"
 showComments = true
-tags = ["blogi", "hersymispiste",  "2026" , "jorinoita" , "rumpali"]
+tags = ["blogi", "PeppeT" ,  "2026" , "jorinoita" , "rumpali"]
 +++
 Ei vain tunnu lähtevän. Uusia äänityksiä tulee pienissä pätkissä, tällä kertaa ei edes omia, vaan työn alla on Daniel L:n biisin “Kestä aikaa” sovitus ja taustojen äänitys jotta saadaan itse artisti laulamaan. Biisi on hyvä ja miljoona gaziljoonaa sovitusideaa pyörii päässä, niistä pitää poimia ne jotka on käyttökelpoisia ja käytännöllisiä, ja jotka muistaa vielä seuraavassakin äänityspuuskassa. Tarkoituksena kun on pitää se sen verran yksinkertaisena, ettei sitten miksausvaiheessa ala kupolia kuumottaa. 
 
